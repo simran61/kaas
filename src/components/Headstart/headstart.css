@@ -1,0 +1,30 @@
+.headstart {
+  height: 100vh;
+}
+
+.headstart_header {
+  background-color: #ffd384;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+}
+
+.headstart_header > h2 {
+  font-family: "Kadwa", serif;
+  padding: 0.5em;
+  letter-spacing: 0.1rem;
+}
+
+.header_img {
+  height: 2.5rem;
+}
+
+.headstart_body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  height: 85vh;
+}

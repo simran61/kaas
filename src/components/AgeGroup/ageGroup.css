@@ -1,0 +1,35 @@
+.age_grp_box {
+  background-color: white;
+  text-align: center;
+  width: 18rem;
+  margin: 1rem;
+  padding: 1.2rem;
+  border: 1px solid rgb(226, 226, 226);
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px;
+  /* rgba(60, 64, 67, 0.15) 0px 2px 6px 2px; */
+  border-radius: 0.7rem;
+}
+
+.age_grp_box > img {
+  width: 15.5rem;
+  height: 9rem;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+.age_grp_box > p {
+  line-height: 1.5rem;
+  font-size: 0.95rem;
+  margin: 2rem 0rem;
+}
+
+.age_grp_box > button {
+  background-color: #ffd384;
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 0.8rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
