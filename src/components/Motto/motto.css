@@ -18,6 +18,7 @@ font-family: 'Zilla Slab', serif; */
   justify-content: center;
   align-items: center;
   color: #ffd384;
+  height: 10vh;
 }
 
 .motto_header > h2 {
