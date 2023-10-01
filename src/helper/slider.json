@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "image": "https://wallpapercave.com/wp/wp6135015.png",
+        "title": "--Slider image 1--"
+    }, {
+        "id":2,
+        "image": "https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg",
+        "title": "--Slider image 2--"
+    }, {
+        "id":3,
+        "image": "https://wallpapercave.com/wp/wp6135015.png",
+        "title": "--Slider image 3--"
+    }, {
+        "id":4,
+        "image": "https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg",
+        "title": "--Slider image 4--"
+    }
+]
